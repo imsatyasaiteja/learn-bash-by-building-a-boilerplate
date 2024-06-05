@@ -244,3 +244,4 @@ find
 __vsc_prompt_cmd_original
 rm --help
 rm -r fonts
+ls --color=auto
