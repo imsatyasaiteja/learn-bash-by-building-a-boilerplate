@@ -195,3 +195,5 @@ find client
 __vsc_prompt_cmd_original
 find --help
 find -name index.html
+find styles.css
+find -name styles.css
