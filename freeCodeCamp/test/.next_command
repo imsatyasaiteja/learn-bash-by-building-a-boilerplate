@@ -223,3 +223,5 @@ find
 rmdir images
 rm ./images/background.jpg
 rmdir images
+__vsc_prompt_cmd_original
+ls --color=auto
