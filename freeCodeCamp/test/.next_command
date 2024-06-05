@@ -181,3 +181,4 @@ cd website
 ls --color=auto
 mv roboto.woff fonts
 find
+mv lato.ttf fonts/
